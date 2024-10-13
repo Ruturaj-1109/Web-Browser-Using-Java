@@ -9,7 +9,7 @@ import java.util.ArrayList;
 * windows. The program ends when all windows have been closed.
 * The windows are of type c2w_BrowserWindow. The program also requires
 * the class SimpleDialogs. The first window, which opens when the
-* program starts, goes to "https://www.core2web.in/privacypolicy.html.
+* program starts, goes to "https://www.sinhgad.edu/sinhgad-engineering-institutes/Departments/SKNCOE/SEI-comp.html.
 */
 public class c2w_WebBrowser extends Application {
 public static void main(String[] c2w_args) {
@@ -23,7 +23,7 @@ private double c2w_windowWidth, c2w_windowHeight; // window size,computed from c
 private int c2w_untitledCount;  // how many "Untitled" window titles have been used
 
 /* Opens a window that will load the c2w_URL
-https://www.core2web.in/privacypolicy.html
+https://www.sinhgad.edu/sinhgad-engineering-institutes/Departments/SKNCOE/SEI-comp.html
 * (the front page of the textbook in which this program is an
 example).
 * Note that the Stage parameter to this method is never used.
